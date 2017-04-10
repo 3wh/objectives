@@ -1,4 +1,4 @@
-v1.1
+v1.2
 
 # objectives
 1. Maximize human potential
@@ -19,12 +19,17 @@ v1.1
   * https://www.udacity.com/google
   * OR a good book?
 
+
 Paint the fence: Up! Down! Up! Down!
+
 Be cloud-first
+
 Be security-first
 - OWASP
+
 Live by the rules
 - Work hard. Never give in on quality.
 - http://agilemanifesto.org/
 - https://12factor.net/
+
 Learn your tools
